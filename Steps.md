@@ -11,4 +11,6 @@ pnpm create vite
 
 # 2. Copy the contents of the `.gitignore` file to a new blank file in VS Code (but don't save the file!)
 
+
+
 ```
