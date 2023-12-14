@@ -1,7 +1,7 @@
 # Steps to Reproduce
 
 ```ps
-# 1. Create a new vite project
+# 1. Create a new vite project in the current folder
 pnpm create vite
 # Answer the prompts in the following way:
 √ Project name: ... .
