@@ -7,4 +7,5 @@ pnpm create vite
 √ Select a framework: » Vanilla
 √ Select a variant: » JavaScript
 
+
 ```
