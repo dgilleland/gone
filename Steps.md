@@ -13,7 +13,7 @@ pnpm create vite
 
 # 3. We want to revert the changes that were made to the `.gitignore` file. To do this, we can use the `git checkout` command.
 git checkout <yoursha> -- .gitignore
-## ! You might need to force push after this step
+## ! You might need to force push after this step !
 
 # 4. Paste the contents of your blank file's `.gitignore` file onto the **end** of the current `.gitignore` file in the project folder.
 
