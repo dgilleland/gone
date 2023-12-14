@@ -14,5 +14,5 @@ pnpm create vite
 # 3. We want to revert the changes that were made to the `.gitignore` file. To do this, we can use the `git checkout` command.
 git checkout <yoursha> -- .gitignore
 
-#4
+# 4. Add in 
 ```
