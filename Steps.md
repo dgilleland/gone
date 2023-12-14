@@ -19,5 +19,5 @@ git checkout <yoursha> -- .gitignore
 # 5. Add in `vitest` to your project
 pnpm add -D vitest
 
-# 6. Modify your `package.json` to include the 
+# 6. Modify your `package.json` to include the proper script to run the tests
 ```
