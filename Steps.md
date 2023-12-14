@@ -12,6 +12,6 @@ pnpm create vite
 # 2. Copy the contents of the `.gitignore` file to a new blank file in VS Code (but don't save the file!)
 
 # 3. We want to revert the changes that were made to the `.gitignore` file. To do this, we can use the `git checkout` command.
-git checkout <your -- .gitignore
+git checkout <yoursha> -- .gitignore
 
 ```
