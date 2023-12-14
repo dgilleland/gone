@@ -9,6 +9,6 @@ pnpm create vite
 √ Select a framework: » Vanilla
 √ Select a variant: » JavaScript
 
-# 2. Copy the contents of the `.gitignore` file to a new blank file in VS Code (but )
+# 2. Copy the contents of the `.gitignore` file to a new blank file in VS Code (but don't save it yet)
 
 ```
