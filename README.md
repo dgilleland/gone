@@ -4,7 +4,7 @@
 
 > Use this repository as a test that you have the correct settings in [Visual Studio Code](https://code.visualstudio.com/) for using [GitDoc](https://aka.ms/gitdoc) in your school projects.
 
-Follow the instructions below to ensure that you have Visual Studio Code correctly set up for this repository.
+Follow the instructions below to ensure that you have Visual Studio Code correctly set up for this repository. If you have any problems, please see the [pre-requisites/trouble-shooting](#pre-requisitestrouble-shooting) section below.
 
 When you think you have GitDoc set up, try putting your name in the area indicated above. You should see
 
@@ -42,6 +42,9 @@ Also make sure that you have set the Commit Validation Level to `none` in your w
 | ---------------------------------- | ----------------------------------------------- |
 | ![Settings](./images/Settings.png) | ![GitDoc Settings](./images/GitDocSettings.png) |
 
+### Pre-requisites/Trouble-Shooting
+
+> If you have any problems with GitDoc performing the commits, even after it is enabled, try toggling the `GitDoc: Enable` command off and on again. If that doesn't work, try restarting VS Code. If that doesn't work, try performing a manual commit, followed by a manual push (it may need to be a force push - `git push -f`) and finally toggle the `GitDoc: Enable` off and on again.
 
 Ensure that git knows your username and email. You can find out if it is configured on your computer by running the following commands in the terminal.
 
