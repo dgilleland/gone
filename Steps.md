@@ -17,6 +17,6 @@ git checkout <yoursha> -- .gitignore
 # 4. Paste the contents of your blank file's `.gitignore` file onto the **end** of the current `.gitignore` file in the project folder.
 
 # 5. Add in `vitest` to your project
-
+pnpm add -D vitest
 
 ```
