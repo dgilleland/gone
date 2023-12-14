@@ -1,6 +1,7 @@
 # Steps to Reproduce
 
 ```ps
+
 pnpm create vite
 # Answer the prompts in the following way:
 √ Project name: ... .
